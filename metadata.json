@@ -1,0 +1,5 @@
+{
+  "name": "Vipat Hotel Management Dashboard",
+  "description": "A professional dashboard to manage hotel rooms, view transactions, and issue receipts, based on the Vipat Hotel system.",
+  "requestFramePermissions": []
+}
